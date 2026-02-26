@@ -35,6 +35,7 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     
     delete[] b; 
-    
+
+    std::cout << "Ez egy uzenet a mástól!" << std::endl;
     return 0;
 }
